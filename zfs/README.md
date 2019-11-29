@@ -13,6 +13,14 @@ developed for Solaris and is now maintained by the OpenZFS community.
   * [Mailing lists](https://github.com/zfsonlinux/zfs/wiki/Mailing-Lists)
   * [OpenZFS site](http://open-zfs.org/)
 
+# Additional Resources
+
+ * [Internet Archive](http://web.archive.org/web/20071015014209/http://www.sun.com/2004-0914/feature/)
+ * [Ubuntu ZFS](https://wiki.ubuntu.com/Kernel/Reference/ZFS)
+ * [ArchLinux ZFS](https://wiki.archlinux.org/index.php/ZFS)
+ * [Aaron Toponce](https://pthree.org/2012/12/04/zfs-administration-part-i-vdevs/)
+ * [Oracle Solaris ZFS File System](https://docs.oracle.com/cd/E19253-01/819-5461/zfsover-1/index.html)
+
 # Installation
 
 Full documentation for installing ZoL on your favorite Linux distribution can
